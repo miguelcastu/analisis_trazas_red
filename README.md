@@ -1,4 +1,4 @@
-# analisis_trazas_red
+# Analisis_trazas_red
 El objetivo de este laboratorio es aprender a identificar comportamientos en una traza de red
 utilizando una herramienta de análisis de tráfico. Para realizar el laboratorio, necesitarás una
 máquina con Wireshark instalado.
