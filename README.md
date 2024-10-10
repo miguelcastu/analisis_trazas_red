@@ -1,7 +1,6 @@
 # Analisis_trazas_red
 El objetivo de este laboratorio es aprender a identificar comportamientos en una traza de red
-utilizando una herramienta de análisis de tráfico. Para realizar el laboratorio, necesitarás una
-máquina con Wireshark instalado.
+utilizando una herramienta de análisis de tráfico y responder a las siguientes preguntas.
 ## Activities
 1. Traza trace_1.pcap
 a. ¿Cuál es el protocolo de aplicación más prevalente en la traza?
