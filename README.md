@@ -1,3 +1,23 @@
+# Network Traffic Analysis — Security Coursework
+
+Historical packet-analysis exercises covering TCP/UDP conversations, HTTP
+behavior, host identification and investigation of a supplied infection trace.
+Use Wireshark to inspect the four captures; the Spanish DOCX records the original
+work. This repository is evidence of foundational network investigation, not a
+deployed detection system.
+
+[Engineering portfolio](https://github.com/miguelcastu/miguelcastu) · [Project directory](https://github.com/miguelcastu/miguelcastu/blob/main/PROJECTS.md)
+
+## Reading route and data handling
+
+Start with the original questions below, then the report. Capture provenance and
+payload privacy have not been independently cleared in this portfolio audit.
+Do not extract credentials, publish payload screenshots or replay captured traffic
+to external systems. No new capture data or packet-level findings are asserted.
+
+## Original assignment (Spanish)
+
+
 # Analisis_trazas_red
 El objetivo de este laboratorio es aprender a identificar comportamientos en una traza de red
 utilizando una herramienta de análisis de tráfico y responder a las siguientes preguntas.
